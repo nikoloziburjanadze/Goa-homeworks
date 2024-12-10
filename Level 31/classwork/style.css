@@ -1,0 +1,49 @@
+a:hover {
+    color: red;
+    letter-spacing: 10px;
+}
+
+div {
+ background-color: violet;
+ width: 300px;
+ height: 300px;
+ border: 30px;
+ border-radius: 30px;
+}
+
+div:hover {
+    background-color: rgb(151, 3, 151);
+    width: 600px;
+    height: 600px;
+    border: 3px;
+    border-radius: 300px;
+   }
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    background-color: beige;
+}
+
+
+.first {
+    background-color: rgb(23, 224, 157);
+    color: aliceblue;
+}
+
+table:hover {
+    background-color: rgb(65, 65, 88);
+}
+
+.second{
+    margin: 30px;
+   
+   
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
